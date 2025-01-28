@@ -5,7 +5,7 @@ Bu yazılım, bir kütüphanedeki tüm işlemleri takip etmek ve yönetmek için
 ## Özellikler
 
 ### 1. **Personel Kayıt İşlemi**
-- **Personel Kayıt:** Personel, program üzerinden kayıt olur. Kayıt işlemi, kişisel bilgiler (ad, soyad, TC kimlik numarası vb.) ve çalışma bilgilerini içerir.
+- **Personel Kayıt:** Personel, program üzerinden kayıt olur. Kayıt işlemi, kişisel bilgiler (ad, soyad vb.) ve çalışma bilgilerini içerir.
 - **Kayıt Olma Butonu:** Personel, programda bulunan "Kayıt Ol" butonuyla kaydını yapar. Kullanıcılar ise internet üzerinden zaten hazır kayıtlı olarak görünürler.
 
 ### 2. **Kullanıcı Emanet İşlemleri**
